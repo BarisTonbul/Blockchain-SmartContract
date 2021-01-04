@@ -1,6 +1,7 @@
 ## Hotel Reservation system based on smart contract with web interface
-# Used technologies and how it works
 
+# To understand the system, you can watch demo video or read ProjectReport that i uploaded.
+# Used technologies and how it works
 - XAMPP: For creating MySQL server
 - Python: With flask library i was able to manage my database that holds rooms data and use them on HTML pages. 
 - MetaMask: Provides us to manage our crypto wallets on google chrome as plugin.
